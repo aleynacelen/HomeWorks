@@ -1,0 +1,15 @@
+C:\Users\yenib\OneDrive\Belgeler\GitHub\BackendBootcampDersler\c#programlama\HomeWorks\HomeWorks-6\HomeWorks6-3\obj\Debug\net8.0\HomeWorks6-3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yenib\OneDrive\Belgeler\GitHub\BackendBootcampDersler\c#programlama\HomeWorks\HomeWorks-6\HomeWorks6-3\obj\Debug\net8.0\HomeWorks6-3.AssemblyInfoInputs.cache
+C:\Users\yenib\OneDrive\Belgeler\GitHub\BackendBootcampDersler\c#programlama\HomeWorks\HomeWorks-6\HomeWorks6-3\obj\Debug\net8.0\HomeWorks6-3.AssemblyInfo.cs
+C:\Users\yenib\OneDrive\Belgeler\GitHub\BackendBootcampDersler\c#programlama\HomeWorks\HomeWorks-6\HomeWorks6-3\obj\Debug\net8.0\HomeWorks6-3.csproj.CoreCompileInputs.cache
+C:\Users\yenib\OneDrive\Belgeler\GitHub\BackendBootcampDersler\c#programlama\HomeWorks\HomeWorks-6\HomeWorks6-3\obj\Debug\net8.0\HomeWorks6-3.sourcelink.json
+C:\Users\yenib\OneDrive\Belgeler\GitHub\BackendBootcampDersler\c#programlama\HomeWorks\HomeWorks-6\HomeWorks6-3\bin\Debug\net8.0\HomeWorks6-3.exe
+C:\Users\yenib\OneDrive\Belgeler\GitHub\BackendBootcampDersler\c#programlama\HomeWorks\HomeWorks-6\HomeWorks6-3\bin\Debug\net8.0\HomeWorks6-3.deps.json
+C:\Users\yenib\OneDrive\Belgeler\GitHub\BackendBootcampDersler\c#programlama\HomeWorks\HomeWorks-6\HomeWorks6-3\bin\Debug\net8.0\HomeWorks6-3.runtimeconfig.json
+C:\Users\yenib\OneDrive\Belgeler\GitHub\BackendBootcampDersler\c#programlama\HomeWorks\HomeWorks-6\HomeWorks6-3\bin\Debug\net8.0\HomeWorks6-3.dll
+C:\Users\yenib\OneDrive\Belgeler\GitHub\BackendBootcampDersler\c#programlama\HomeWorks\HomeWorks-6\HomeWorks6-3\bin\Debug\net8.0\HomeWorks6-3.pdb
+C:\Users\yenib\OneDrive\Belgeler\GitHub\BackendBootcampDersler\c#programlama\HomeWorks\HomeWorks-6\HomeWorks6-3\obj\Debug\net8.0\HomeWorks6-3.dll
+C:\Users\yenib\OneDrive\Belgeler\GitHub\BackendBootcampDersler\c#programlama\HomeWorks\HomeWorks-6\HomeWorks6-3\obj\Debug\net8.0\refint\HomeWorks6-3.dll
+C:\Users\yenib\OneDrive\Belgeler\GitHub\BackendBootcampDersler\c#programlama\HomeWorks\HomeWorks-6\HomeWorks6-3\obj\Debug\net8.0\HomeWorks6-3.pdb
+C:\Users\yenib\OneDrive\Belgeler\GitHub\BackendBootcampDersler\c#programlama\HomeWorks\HomeWorks-6\HomeWorks6-3\obj\Debug\net8.0\HomeWorks6-3.genruntimeconfig.cache
+C:\Users\yenib\OneDrive\Belgeler\GitHub\BackendBootcampDersler\c#programlama\HomeWorks\HomeWorks-6\HomeWorks6-3\obj\Debug\net8.0\ref\HomeWorks6-3.dll

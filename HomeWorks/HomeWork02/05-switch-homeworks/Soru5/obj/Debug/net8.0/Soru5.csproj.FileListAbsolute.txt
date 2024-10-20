@@ -1,0 +1,15 @@
+C:\Users\yenib\OneDrive\Belgeler\GitHub\BackendBootcampDersler\c#programlama\HomeWorks_25_08_2024\05-switch-homeworks\Soru5\bin\Debug\net8.0\Soru5.exe
+C:\Users\yenib\OneDrive\Belgeler\GitHub\BackendBootcampDersler\c#programlama\HomeWorks_25_08_2024\05-switch-homeworks\Soru5\bin\Debug\net8.0\Soru5.deps.json
+C:\Users\yenib\OneDrive\Belgeler\GitHub\BackendBootcampDersler\c#programlama\HomeWorks_25_08_2024\05-switch-homeworks\Soru5\bin\Debug\net8.0\Soru5.runtimeconfig.json
+C:\Users\yenib\OneDrive\Belgeler\GitHub\BackendBootcampDersler\c#programlama\HomeWorks_25_08_2024\05-switch-homeworks\Soru5\bin\Debug\net8.0\Soru5.dll
+C:\Users\yenib\OneDrive\Belgeler\GitHub\BackendBootcampDersler\c#programlama\HomeWorks_25_08_2024\05-switch-homeworks\Soru5\bin\Debug\net8.0\Soru5.pdb
+C:\Users\yenib\OneDrive\Belgeler\GitHub\BackendBootcampDersler\c#programlama\HomeWorks_25_08_2024\05-switch-homeworks\Soru5\obj\Debug\net8.0\Soru5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yenib\OneDrive\Belgeler\GitHub\BackendBootcampDersler\c#programlama\HomeWorks_25_08_2024\05-switch-homeworks\Soru5\obj\Debug\net8.0\Soru5.AssemblyInfoInputs.cache
+C:\Users\yenib\OneDrive\Belgeler\GitHub\BackendBootcampDersler\c#programlama\HomeWorks_25_08_2024\05-switch-homeworks\Soru5\obj\Debug\net8.0\Soru5.AssemblyInfo.cs
+C:\Users\yenib\OneDrive\Belgeler\GitHub\BackendBootcampDersler\c#programlama\HomeWorks_25_08_2024\05-switch-homeworks\Soru5\obj\Debug\net8.0\Soru5.csproj.CoreCompileInputs.cache
+C:\Users\yenib\OneDrive\Belgeler\GitHub\BackendBootcampDersler\c#programlama\HomeWorks_25_08_2024\05-switch-homeworks\Soru5\obj\Debug\net8.0\Soru5.sourcelink.json
+C:\Users\yenib\OneDrive\Belgeler\GitHub\BackendBootcampDersler\c#programlama\HomeWorks_25_08_2024\05-switch-homeworks\Soru5\obj\Debug\net8.0\Soru5.dll
+C:\Users\yenib\OneDrive\Belgeler\GitHub\BackendBootcampDersler\c#programlama\HomeWorks_25_08_2024\05-switch-homeworks\Soru5\obj\Debug\net8.0\refint\Soru5.dll
+C:\Users\yenib\OneDrive\Belgeler\GitHub\BackendBootcampDersler\c#programlama\HomeWorks_25_08_2024\05-switch-homeworks\Soru5\obj\Debug\net8.0\Soru5.pdb
+C:\Users\yenib\OneDrive\Belgeler\GitHub\BackendBootcampDersler\c#programlama\HomeWorks_25_08_2024\05-switch-homeworks\Soru5\obj\Debug\net8.0\Soru5.genruntimeconfig.cache
+C:\Users\yenib\OneDrive\Belgeler\GitHub\BackendBootcampDersler\c#programlama\HomeWorks_25_08_2024\05-switch-homeworks\Soru5\obj\Debug\net8.0\ref\Soru5.dll

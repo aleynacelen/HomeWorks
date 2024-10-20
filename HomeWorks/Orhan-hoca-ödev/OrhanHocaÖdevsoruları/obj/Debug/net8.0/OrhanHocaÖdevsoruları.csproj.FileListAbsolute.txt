@@ -1,0 +1,15 @@
+C:\Users\yenib\OneDrive\Belgeler\GitHub\BackendBootcampDersler\c#programlama\Orhan-hoca-ödev\OrhanHocaÖdevsoruları\obj\Debug\net8.0\OrhanHocaÖdevsoruları.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yenib\OneDrive\Belgeler\GitHub\BackendBootcampDersler\c#programlama\Orhan-hoca-ödev\OrhanHocaÖdevsoruları\obj\Debug\net8.0\OrhanHocaÖdevsoruları.AssemblyInfoInputs.cache
+C:\Users\yenib\OneDrive\Belgeler\GitHub\BackendBootcampDersler\c#programlama\Orhan-hoca-ödev\OrhanHocaÖdevsoruları\obj\Debug\net8.0\OrhanHocaÖdevsoruları.AssemblyInfo.cs
+C:\Users\yenib\OneDrive\Belgeler\GitHub\BackendBootcampDersler\c#programlama\Orhan-hoca-ödev\OrhanHocaÖdevsoruları\obj\Debug\net8.0\OrhanHocaÖdevsoruları.csproj.CoreCompileInputs.cache
+C:\Users\yenib\OneDrive\Belgeler\GitHub\BackendBootcampDersler\c#programlama\Orhan-hoca-ödev\OrhanHocaÖdevsoruları\obj\Debug\net8.0\OrhanHocaÖdevsoruları.sourcelink.json
+C:\Users\yenib\OneDrive\Belgeler\GitHub\BackendBootcampDersler\c#programlama\Orhan-hoca-ödev\OrhanHocaÖdevsoruları\bin\Debug\net8.0\OrhanHocaÖdevsoruları.exe
+C:\Users\yenib\OneDrive\Belgeler\GitHub\BackendBootcampDersler\c#programlama\Orhan-hoca-ödev\OrhanHocaÖdevsoruları\bin\Debug\net8.0\OrhanHocaÖdevsoruları.deps.json
+C:\Users\yenib\OneDrive\Belgeler\GitHub\BackendBootcampDersler\c#programlama\Orhan-hoca-ödev\OrhanHocaÖdevsoruları\bin\Debug\net8.0\OrhanHocaÖdevsoruları.runtimeconfig.json
+C:\Users\yenib\OneDrive\Belgeler\GitHub\BackendBootcampDersler\c#programlama\Orhan-hoca-ödev\OrhanHocaÖdevsoruları\bin\Debug\net8.0\OrhanHocaÖdevsoruları.dll
+C:\Users\yenib\OneDrive\Belgeler\GitHub\BackendBootcampDersler\c#programlama\Orhan-hoca-ödev\OrhanHocaÖdevsoruları\bin\Debug\net8.0\OrhanHocaÖdevsoruları.pdb
+C:\Users\yenib\OneDrive\Belgeler\GitHub\BackendBootcampDersler\c#programlama\Orhan-hoca-ödev\OrhanHocaÖdevsoruları\obj\Debug\net8.0\OrhanHocaÖdevsoruları.dll
+C:\Users\yenib\OneDrive\Belgeler\GitHub\BackendBootcampDersler\c#programlama\Orhan-hoca-ödev\OrhanHocaÖdevsoruları\obj\Debug\net8.0\refint\OrhanHocaÖdevsoruları.dll
+C:\Users\yenib\OneDrive\Belgeler\GitHub\BackendBootcampDersler\c#programlama\Orhan-hoca-ödev\OrhanHocaÖdevsoruları\obj\Debug\net8.0\OrhanHocaÖdevsoruları.pdb
+C:\Users\yenib\OneDrive\Belgeler\GitHub\BackendBootcampDersler\c#programlama\Orhan-hoca-ödev\OrhanHocaÖdevsoruları\obj\Debug\net8.0\OrhanHocaÖdevsoruları.genruntimeconfig.cache
+C:\Users\yenib\OneDrive\Belgeler\GitHub\BackendBootcampDersler\c#programlama\Orhan-hoca-ödev\OrhanHocaÖdevsoruları\obj\Debug\net8.0\ref\OrhanHocaÖdevsoruları.dll

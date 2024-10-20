@@ -1,0 +1,15 @@
+C:\Users\yenib\OneDrive\Belgeler\GitHub\BackendBootcampDersler\c#programlama\HomeWorks_25_08_2024\02-number-methods-homework\Soru6\obj\Debug\net8.0\Soru6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yenib\OneDrive\Belgeler\GitHub\BackendBootcampDersler\c#programlama\HomeWorks_25_08_2024\02-number-methods-homework\Soru6\obj\Debug\net8.0\Soru6.AssemblyInfoInputs.cache
+C:\Users\yenib\OneDrive\Belgeler\GitHub\BackendBootcampDersler\c#programlama\HomeWorks_25_08_2024\02-number-methods-homework\Soru6\obj\Debug\net8.0\Soru6.AssemblyInfo.cs
+C:\Users\yenib\OneDrive\Belgeler\GitHub\BackendBootcampDersler\c#programlama\HomeWorks_25_08_2024\02-number-methods-homework\Soru6\obj\Debug\net8.0\Soru6.csproj.CoreCompileInputs.cache
+C:\Users\yenib\OneDrive\Belgeler\GitHub\BackendBootcampDersler\c#programlama\HomeWorks_25_08_2024\02-number-methods-homework\Soru6\obj\Debug\net8.0\Soru6.sourcelink.json
+C:\Users\yenib\OneDrive\Belgeler\GitHub\BackendBootcampDersler\c#programlama\HomeWorks_25_08_2024\02-number-methods-homework\Soru6\bin\Debug\net8.0\Soru6.exe
+C:\Users\yenib\OneDrive\Belgeler\GitHub\BackendBootcampDersler\c#programlama\HomeWorks_25_08_2024\02-number-methods-homework\Soru6\bin\Debug\net8.0\Soru6.deps.json
+C:\Users\yenib\OneDrive\Belgeler\GitHub\BackendBootcampDersler\c#programlama\HomeWorks_25_08_2024\02-number-methods-homework\Soru6\bin\Debug\net8.0\Soru6.runtimeconfig.json
+C:\Users\yenib\OneDrive\Belgeler\GitHub\BackendBootcampDersler\c#programlama\HomeWorks_25_08_2024\02-number-methods-homework\Soru6\bin\Debug\net8.0\Soru6.dll
+C:\Users\yenib\OneDrive\Belgeler\GitHub\BackendBootcampDersler\c#programlama\HomeWorks_25_08_2024\02-number-methods-homework\Soru6\bin\Debug\net8.0\Soru6.pdb
+C:\Users\yenib\OneDrive\Belgeler\GitHub\BackendBootcampDersler\c#programlama\HomeWorks_25_08_2024\02-number-methods-homework\Soru6\obj\Debug\net8.0\Soru6.dll
+C:\Users\yenib\OneDrive\Belgeler\GitHub\BackendBootcampDersler\c#programlama\HomeWorks_25_08_2024\02-number-methods-homework\Soru6\obj\Debug\net8.0\refint\Soru6.dll
+C:\Users\yenib\OneDrive\Belgeler\GitHub\BackendBootcampDersler\c#programlama\HomeWorks_25_08_2024\02-number-methods-homework\Soru6\obj\Debug\net8.0\Soru6.pdb
+C:\Users\yenib\OneDrive\Belgeler\GitHub\BackendBootcampDersler\c#programlama\HomeWorks_25_08_2024\02-number-methods-homework\Soru6\obj\Debug\net8.0\Soru6.genruntimeconfig.cache
+C:\Users\yenib\OneDrive\Belgeler\GitHub\BackendBootcampDersler\c#programlama\HomeWorks_25_08_2024\02-number-methods-homework\Soru6\obj\Debug\net8.0\ref\Soru6.dll

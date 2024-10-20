@@ -1,0 +1,15 @@
+C:\Users\yenib\OneDrive\Belgeler\GitHub\BackendBootcampDersler\c#programlama\HomeWorks_25_08_2024\homewoks3\min max\SoruFor\bin\Debug\net8.0\SoruFor.exe
+C:\Users\yenib\OneDrive\Belgeler\GitHub\BackendBootcampDersler\c#programlama\HomeWorks_25_08_2024\homewoks3\min max\SoruFor\bin\Debug\net8.0\SoruFor.deps.json
+C:\Users\yenib\OneDrive\Belgeler\GitHub\BackendBootcampDersler\c#programlama\HomeWorks_25_08_2024\homewoks3\min max\SoruFor\bin\Debug\net8.0\SoruFor.runtimeconfig.json
+C:\Users\yenib\OneDrive\Belgeler\GitHub\BackendBootcampDersler\c#programlama\HomeWorks_25_08_2024\homewoks3\min max\SoruFor\bin\Debug\net8.0\SoruFor.dll
+C:\Users\yenib\OneDrive\Belgeler\GitHub\BackendBootcampDersler\c#programlama\HomeWorks_25_08_2024\homewoks3\min max\SoruFor\bin\Debug\net8.0\SoruFor.pdb
+C:\Users\yenib\OneDrive\Belgeler\GitHub\BackendBootcampDersler\c#programlama\HomeWorks_25_08_2024\homewoks3\min max\SoruFor\obj\Debug\net8.0\SoruFor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yenib\OneDrive\Belgeler\GitHub\BackendBootcampDersler\c#programlama\HomeWorks_25_08_2024\homewoks3\min max\SoruFor\obj\Debug\net8.0\SoruFor.AssemblyInfoInputs.cache
+C:\Users\yenib\OneDrive\Belgeler\GitHub\BackendBootcampDersler\c#programlama\HomeWorks_25_08_2024\homewoks3\min max\SoruFor\obj\Debug\net8.0\SoruFor.AssemblyInfo.cs
+C:\Users\yenib\OneDrive\Belgeler\GitHub\BackendBootcampDersler\c#programlama\HomeWorks_25_08_2024\homewoks3\min max\SoruFor\obj\Debug\net8.0\SoruFor.csproj.CoreCompileInputs.cache
+C:\Users\yenib\OneDrive\Belgeler\GitHub\BackendBootcampDersler\c#programlama\HomeWorks_25_08_2024\homewoks3\min max\SoruFor\obj\Debug\net8.0\SoruFor.sourcelink.json
+C:\Users\yenib\OneDrive\Belgeler\GitHub\BackendBootcampDersler\c#programlama\HomeWorks_25_08_2024\homewoks3\min max\SoruFor\obj\Debug\net8.0\SoruFor.dll
+C:\Users\yenib\OneDrive\Belgeler\GitHub\BackendBootcampDersler\c#programlama\HomeWorks_25_08_2024\homewoks3\min max\SoruFor\obj\Debug\net8.0\refint\SoruFor.dll
+C:\Users\yenib\OneDrive\Belgeler\GitHub\BackendBootcampDersler\c#programlama\HomeWorks_25_08_2024\homewoks3\min max\SoruFor\obj\Debug\net8.0\SoruFor.pdb
+C:\Users\yenib\OneDrive\Belgeler\GitHub\BackendBootcampDersler\c#programlama\HomeWorks_25_08_2024\homewoks3\min max\SoruFor\obj\Debug\net8.0\SoruFor.genruntimeconfig.cache
+C:\Users\yenib\OneDrive\Belgeler\GitHub\BackendBootcampDersler\c#programlama\HomeWorks_25_08_2024\homewoks3\min max\SoruFor\obj\Debug\net8.0\ref\SoruFor.dll

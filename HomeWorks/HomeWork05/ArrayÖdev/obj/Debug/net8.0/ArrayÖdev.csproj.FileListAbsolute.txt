@@ -1,0 +1,14 @@
+C:\Users\yenib\OneDrive\Masaüstü\ödevweek5\ArrayÖdev\bin\Debug\net8.0\ArrayÖdev.exe
+C:\Users\yenib\OneDrive\Masaüstü\ödevweek5\ArrayÖdev\bin\Debug\net8.0\ArrayÖdev.deps.json
+C:\Users\yenib\OneDrive\Masaüstü\ödevweek5\ArrayÖdev\bin\Debug\net8.0\ArrayÖdev.runtimeconfig.json
+C:\Users\yenib\OneDrive\Masaüstü\ödevweek5\ArrayÖdev\bin\Debug\net8.0\ArrayÖdev.dll
+C:\Users\yenib\OneDrive\Masaüstü\ödevweek5\ArrayÖdev\bin\Debug\net8.0\ArrayÖdev.pdb
+C:\Users\yenib\OneDrive\Masaüstü\ödevweek5\ArrayÖdev\obj\Debug\net8.0\ArrayÖdev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yenib\OneDrive\Masaüstü\ödevweek5\ArrayÖdev\obj\Debug\net8.0\ArrayÖdev.AssemblyInfoInputs.cache
+C:\Users\yenib\OneDrive\Masaüstü\ödevweek5\ArrayÖdev\obj\Debug\net8.0\ArrayÖdev.AssemblyInfo.cs
+C:\Users\yenib\OneDrive\Masaüstü\ödevweek5\ArrayÖdev\obj\Debug\net8.0\ArrayÖdev.csproj.CoreCompileInputs.cache
+C:\Users\yenib\OneDrive\Masaüstü\ödevweek5\ArrayÖdev\obj\Debug\net8.0\ArrayÖdev.dll
+C:\Users\yenib\OneDrive\Masaüstü\ödevweek5\ArrayÖdev\obj\Debug\net8.0\refint\ArrayÖdev.dll
+C:\Users\yenib\OneDrive\Masaüstü\ödevweek5\ArrayÖdev\obj\Debug\net8.0\ArrayÖdev.pdb
+C:\Users\yenib\OneDrive\Masaüstü\ödevweek5\ArrayÖdev\obj\Debug\net8.0\ArrayÖdev.genruntimeconfig.cache
+C:\Users\yenib\OneDrive\Masaüstü\ödevweek5\ArrayÖdev\obj\Debug\net8.0\ref\ArrayÖdev.dll

@@ -1,0 +1,15 @@
+C:\Users\yenib\OneDrive\Belgeler\GitHub\BackendBootcampDersler\c#programlama\HomeWorks_25_08_2024\02-number-methods-homework\Soru9\bin\Debug\net8.0\Soru9.exe
+C:\Users\yenib\OneDrive\Belgeler\GitHub\BackendBootcampDersler\c#programlama\HomeWorks_25_08_2024\02-number-methods-homework\Soru9\bin\Debug\net8.0\Soru9.deps.json
+C:\Users\yenib\OneDrive\Belgeler\GitHub\BackendBootcampDersler\c#programlama\HomeWorks_25_08_2024\02-number-methods-homework\Soru9\bin\Debug\net8.0\Soru9.runtimeconfig.json
+C:\Users\yenib\OneDrive\Belgeler\GitHub\BackendBootcampDersler\c#programlama\HomeWorks_25_08_2024\02-number-methods-homework\Soru9\bin\Debug\net8.0\Soru9.dll
+C:\Users\yenib\OneDrive\Belgeler\GitHub\BackendBootcampDersler\c#programlama\HomeWorks_25_08_2024\02-number-methods-homework\Soru9\bin\Debug\net8.0\Soru9.pdb
+C:\Users\yenib\OneDrive\Belgeler\GitHub\BackendBootcampDersler\c#programlama\HomeWorks_25_08_2024\02-number-methods-homework\Soru9\obj\Debug\net8.0\Soru9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yenib\OneDrive\Belgeler\GitHub\BackendBootcampDersler\c#programlama\HomeWorks_25_08_2024\02-number-methods-homework\Soru9\obj\Debug\net8.0\Soru9.AssemblyInfoInputs.cache
+C:\Users\yenib\OneDrive\Belgeler\GitHub\BackendBootcampDersler\c#programlama\HomeWorks_25_08_2024\02-number-methods-homework\Soru9\obj\Debug\net8.0\Soru9.AssemblyInfo.cs
+C:\Users\yenib\OneDrive\Belgeler\GitHub\BackendBootcampDersler\c#programlama\HomeWorks_25_08_2024\02-number-methods-homework\Soru9\obj\Debug\net8.0\Soru9.csproj.CoreCompileInputs.cache
+C:\Users\yenib\OneDrive\Belgeler\GitHub\BackendBootcampDersler\c#programlama\HomeWorks_25_08_2024\02-number-methods-homework\Soru9\obj\Debug\net8.0\Soru9.sourcelink.json
+C:\Users\yenib\OneDrive\Belgeler\GitHub\BackendBootcampDersler\c#programlama\HomeWorks_25_08_2024\02-number-methods-homework\Soru9\obj\Debug\net8.0\Soru9.dll
+C:\Users\yenib\OneDrive\Belgeler\GitHub\BackendBootcampDersler\c#programlama\HomeWorks_25_08_2024\02-number-methods-homework\Soru9\obj\Debug\net8.0\refint\Soru9.dll
+C:\Users\yenib\OneDrive\Belgeler\GitHub\BackendBootcampDersler\c#programlama\HomeWorks_25_08_2024\02-number-methods-homework\Soru9\obj\Debug\net8.0\Soru9.pdb
+C:\Users\yenib\OneDrive\Belgeler\GitHub\BackendBootcampDersler\c#programlama\HomeWorks_25_08_2024\02-number-methods-homework\Soru9\obj\Debug\net8.0\Soru9.genruntimeconfig.cache
+C:\Users\yenib\OneDrive\Belgeler\GitHub\BackendBootcampDersler\c#programlama\HomeWorks_25_08_2024\02-number-methods-homework\Soru9\obj\Debug\net8.0\ref\Soru9.dll

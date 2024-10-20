@@ -1,0 +1,5 @@
+C:\Users\yenib\OneDrive\Belgeler\GitHub\BackendBootcampDersler\c#programlama\HomeWorks\HomeWorks-6\HomeWorks6-7\obj\Debug\net8.0\HomeWorks6-7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yenib\OneDrive\Belgeler\GitHub\BackendBootcampDersler\c#programlama\HomeWorks\HomeWorks-6\HomeWorks6-7\obj\Debug\net8.0\HomeWorks6-7.AssemblyInfoInputs.cache
+C:\Users\yenib\OneDrive\Belgeler\GitHub\BackendBootcampDersler\c#programlama\HomeWorks\HomeWorks-6\HomeWorks6-7\obj\Debug\net8.0\HomeWorks6-7.AssemblyInfo.cs
+C:\Users\yenib\OneDrive\Belgeler\GitHub\BackendBootcampDersler\c#programlama\HomeWorks\HomeWorks-6\HomeWorks6-7\obj\Debug\net8.0\HomeWorks6-7.csproj.CoreCompileInputs.cache
+C:\Users\yenib\OneDrive\Belgeler\GitHub\BackendBootcampDersler\c#programlama\HomeWorks\HomeWorks-6\HomeWorks6-7\obj\Debug\net8.0\HomeWorks6-7.sourcelink.json
