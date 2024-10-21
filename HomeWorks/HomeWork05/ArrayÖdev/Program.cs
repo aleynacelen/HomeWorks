@@ -75,38 +75,95 @@ class Program
 
         #region soru 3
 
-        Random rnd new Random();
-        int[] sayilar = new int[10];
-        int i = 0;
-        while (i < sayilar.Lenght)
-        {
-            sayilar[i] rnd.Next(-100, 100);
-        }
+        // Random rnd new Random();
+        // int[] sayilar = new int[10];
+        // int i = 0;
+        // while (i < sayilar.Lenght)
+        // {
+        //     sayilar[i] rnd.Next(-100, 100);
+        // }
 
-        List<int> pozitifSayılar = new List<int>();
-        List<int> negatifSayılar = new List<int>();
-        i = 0;
-        while (i < sayilar.Length)
-        {
-            if (sayilar[i] > 0)
-            {
-                pozitifSayilar.Add(sayilar[i]);
-            }
-            else if (sayilar[i] < 0)
-            {
-                negatifSayilar.Add(sayilar[i]);
-            }
-            i++;
-        }
-
-
-        Console.WriteLine("Oluşturulan dizi:");
-        foreach (int sayi in sayilar)
-        {
-            Console.Write(sayi + " ");
-        }
+        // List<int> pozitifSayılar = new List<int>();
+        // List<int> negatifSayılar = new List<int>();
+        // i = 0;
+        // while (i < sayilar.Length)
+        // {
+        //     if (sayilar[i] > 0)
+        //     {
+        //         pozitifSayilar.Add(sayilar[i]);
+        //     }
+        //     else if (sayilar[i] < 0)
+        //     {
+        //         negatifSayilar.Add(sayilar[i]);
+        //     }
+        //     i++;
+        // }
 
 
+        // Console.WriteLine("Oluşturulan dizi:");
+        // foreach (int sayi in sayilar)
+        // {
+        //     Console.Write(sayi + " ");
+        // }
+
+
+
+        #endregion
+
+        #region soru4
+        // int[] dizi = new int[100];
+        // Random rnd = new Random();
+        // for (int i = 0; i < dizi.Length; i++)
+        // {
+        //     dizi[i] = rnd.Next(-100, 100);
+        // }
+        // Console.WriteLine("For döngüsü ile tekrar eden elemanlar:");
+        // for (int i = 0; i < dizi.Length; i++)
+        // {
+        //     for (int j = i + 1; j < dizi.Length; j++)
+        //     {
+        //         if (dizi[i] == dizi[j])
+        //         {
+        //             Console.WriteLine($"{dizi[i]} sayısı {i}. ve {j}. indekslerde tekrar ediyor.");
+        //         }
+        //     }
+        // }
+
+
+
+
+        #endregion
+
+        #region soru5
+        // int[] dizi = new int[100];
+        // Random rnd = new Random();
+        // for (int i = 0; i < dizi.Length; i++)
+        // {
+        //     dizi[i] = rnd.Next(-100, 100);
+        // }
+        // int[] dizi = new int[100];
+        // Random rnd = new Random();
+        // for (int i = 0; i < dizi.Length; i++)
+        // {
+        //     dizi[i] = rnd.Next(-100, 100);
+        // }
+        // List<int> indeksler = new List<int>();
+        // for (int i = 0; i < dizi.Length; i++)
+        // {
+        //     if (dizi[i] == aranacakSayi)
+        //     {
+        //         indeksler.Add(i);
+        //     }
+        // }
+        // if (indeksler.Count > 0)
+        // {
+        //     Console.WriteLine($"{aranacakSayi} sayısı dizide şu indekslerde bulundu: {string.Join(", ", indeksler)}");
+        //     Console.WriteLine($"{aranacakSayi} sayısı toplam {indeksler.Count} defa tekrar ediyor.");
+        // }
+        // else
+        // {
+        //     Console.WriteLine($"{aranacakSayi} sayısı dizide bulunamadı.");
+        // }
 
         #endregion
 
