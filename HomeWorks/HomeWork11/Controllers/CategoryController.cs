@@ -4,9 +4,11 @@ namespace HomeWork11.Controllers
 {
     public class CategoryController : Controller
     {
-        // GET: CategoryController
+        
         public ActionResult Index()
+
         {
+            ViewBag.Categories = new List<string> { "Teknoloji", "Sağlık", "Spor" };
             return View();
         }
 

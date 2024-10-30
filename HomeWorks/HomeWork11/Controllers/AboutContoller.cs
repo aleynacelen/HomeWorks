@@ -17,7 +17,7 @@ namespace HomeWork11.Controllers
         }
         public ActionResult Index()
         {
-            ViewBag.AboutList=aboutList;
+            ViewBag.boutList=aboutList;
             return View();
         }
 

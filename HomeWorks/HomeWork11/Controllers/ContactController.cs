@@ -10,5 +10,14 @@ namespace HomeWork11.Controllers
             return View();
         }
 
+[HttpPost]
+        public IActionResult Submit(string name, string email, string subject, string message)
+        {
+            
+
+          
+            return RedirectToAction("Index", "Home");
+        }
+
     }
 }
