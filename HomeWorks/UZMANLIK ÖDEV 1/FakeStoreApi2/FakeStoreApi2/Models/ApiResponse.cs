@@ -1,7 +1,7 @@
 using System;
 using FakeStoreApi2.Models;
 
-namespace Week4_HomeWork_Apı.Models;
+namespace FakeStoreApi2;
 
 public class ApiResponse
 {
