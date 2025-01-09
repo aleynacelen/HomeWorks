@@ -3,7 +3,7 @@ using System.Text;
 using FakeStoreApi2.Models;
 using Microsoft.AspNetCore.Mvc;
 using Newtonsoft.Json;
-using Week4_HomeWork_Apı.Models;
+using FakeStoreApi2.Models;
 
 namespace FakeStoreApi2.Controllers;
 
