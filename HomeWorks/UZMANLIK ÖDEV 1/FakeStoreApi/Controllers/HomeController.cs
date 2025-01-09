@@ -1,62 +1,114 @@
+using System.Diagnostics;
+using System.Text;
 using Microsoft.AspNetCore.Mvc;
-using System.Net.Http;
-using System.Net.Http.Json;
+using Newtonsoft.Json;
 using FakeStoreApi.Models;
 using FakeStoreApiMVC.Models;
 
+namespace Week4_HomeWork_Apı.Controllers;
 
-namespace FakeStoreApiMVC.Controllers
+public class HomeController : Controller
 {
-    public class HomeController : Controller
+    private readonly HttpClient _httpClient;
+    public HomeController(IHttpClientFactory httpClientFactory)
     {
-        private readonly HttpClient _httpClient;
-
-      
-        public HomeController(HttpClient httpClient)
-        {
-            _httpClient = httpClient;
-            _httpClient.BaseAddress = new Uri("https://fakestoreapi.com/");
-        }
-
-        public async Task<IActionResult> Index()
-        {
-            var products = await _httpClient.GetFromJsonAsync<List<Product>>("products");
-            return View(products);
-        }
-
-        public async Task<IActionResult> Details(int id)
-        {
-            var product = await _httpClient.GetFromJsonAsync<Product>($"products/{id}");
-            return View(product);
-        }
-
-        public async Task<IActionResult> Categories()
-        {
-            var categories = await _httpClient.GetFromJsonAsync<List<string>>("products/categories");
-            return View(categories);
-        }
-
-        public async Task<IActionResult> ProductsByCategory(string category)
-        {
-            var products = await _httpClient.GetFromJsonAsync<List<Product>>($"products/category/{category}");
-            return View("Index", products);
-        }
-
-        public IActionResult AddProduct()
-        {
-            return View();
-        }
-
-        [HttpPost]
-        public async Task<IActionResult> AddProduct(Product newProduct)
-        {
-            var response = await _httpClient.PostAsJsonAsync("products", newProduct);
-            if (response.IsSuccessStatusCode)
-            {
-                return RedirectToAction("Index");
-            }
-            return View();
-        }
+        _httpClient = httpClientFactory.CreateClient("sametapi");
     }
-}
 
+    public async Task<IActionResult> Index()
+    {
+        HttpResponseMessage responseMessage = await _httpClient.GetAsync("products?limit=9");
+        string response = await responseMessage.Content.ReadAsStringAsync();
+        ApiResponse? apiResponse = JsonConvert.DeserializeObject<ApiResponse>(response);
+
+        List<Product> products = apiResponse.Products;
+        return View(products);
+    }
+
+
+    [HttpGet]
+    public async Task<IActionResult> Details(int id)
+    {
+        var responseMessage = await _httpClient.GetAsync($"products/{id}");
+        var contentResponse = await responseMessage.Content.ReadAsStringAsync();
+
+        ApiResponse? apiResponse = JsonConvert.DeserializeObject<ApiResponse>(contentResponse);
+
+        var product = apiResponse.Product;
+        return View(product);
+    }
+
+    public async Task<IActionResult> AddProduct()
+    {
+        var responseMessage = await _httpClient.GetAsync("products/category");
+
+        if (!responseMessage.IsSuccessStatusCode)
+        {
+            throw new Exception("Kategori verileri alınamadı.");
+        }
+
+        var contentResponse = await responseMessage.Content.ReadAsStringAsync();
+        var categories = JsonConvert.DeserializeObject<CategoryResponse>(contentResponse);
+
+        // var categories = JsonConvert.DeserializeObject<List<string>>(contentResponse);
+        ViewBag.Categories = categories.Categories;
+        return View();
+    }
+
+    [HttpPost]
+    public async Task<IActionResult> AddProduct(Product product)
+    {
+        if (ModelState.IsValid)
+        {
+            var serializedProduct = JsonConvert.SerializeObject(product);
+            TempData["AddedProduct"] = serializedProduct;
+
+
+            var serilizeProduct = JsonConvert.SerializeObject(product);
+            HttpContent content = new StringContent(serilizeProduct, Encoding.UTF8, "application/json");
+            var response = await _httpClient.PostAsync("products", content);
+            var newProduct = await response.Content.ReadAsStringAsync();
+            var result = JsonConvert.DeserializeObject<Product>(newProduct);
+
+            return RedirectToAction("AddedProduct"); // Redirect işlemi
+        }
+
+
+        var responseMessage = await _httpClient.GetAsync("products/category");
+        if (!responseMessage.IsSuccessStatusCode)
+        {
+            throw new Exception("Kategori verileri alınamadı.");
+        }
+
+        var contentResponse = await responseMessage.Content.ReadAsStringAsync();
+        var categories = JsonConvert.DeserializeObject<CategoryResponse>(contentResponse);
+        ViewBag.Categories = categories.Categories;
+
+        return View(product);
+    }
+
+    public IActionResult AddedProduct()
+    {
+        var serializedProduct = TempData["AddedProduct"] as string;
+        if (string.IsNullOrEmpty(serializedProduct))
+        {
+            return View();
+        }
+
+        var addedProduct = JsonConvert.DeserializeObject<Product>(serializedProduct);
+        return View(addedProduct);
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+}

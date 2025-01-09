@@ -18,8 +18,24 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\yenib\OneDrive\Belgeler\GitHub\HomeWorks\HomeWorks\UZMANLIK ÖDEV 1\FakeStoreApi
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/yenib/OneDrive/Belgeler/GitHub/HomeWorks/HomeWorks/UZMANLIK ÖDEV 1/FakeStoreApi/Views/Home/AddesProduct.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBZGRlc1Byb2R1Y3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yenib/OneDrive/Belgeler/GitHub/HomeWorks/HomeWorks/UZMANLIK ÖDEV 1/FakeStoreApi/Views/Home/AddProduct.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBZGRQcm9kdWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yenib/OneDrive/Belgeler/GitHub/HomeWorks/HomeWorks/UZMANLIK ÖDEV 1/FakeStoreApi/Views/Home/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/yenib/OneDrive/Belgeler/GitHub/HomeWorks/HomeWorks/UZMANLIK ÖDEV 1/FakeStoreApi/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yenib/OneDrive/Belgeler/GitHub/HomeWorks/HomeWorks/UZMANLIK ÖDEV 1/FakeStoreApi/Views/Shared/Layout.cshtml.css.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXExheW91dC5jc2h0bWwuY3NzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/yenib/OneDrive/Belgeler/GitHub/HomeWorks/HomeWorks/UZMANLIK ÖDEV 1/FakeStoreApi/Views/Shared/_ValidationScriptsPartial.cshtml]
