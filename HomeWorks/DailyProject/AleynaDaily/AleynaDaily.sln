@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AleynaDailyAPI", "AleynaDailyAPI\AleynaDailyAPI.csproj", "{FB3A1194-361D-4F58-9A41-3453D3972CFA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AleynaDailyShared", "AleynaDailyShared\AleynaDailyShared.csproj", "{FB5D7C95-A342-47B3-87C5-96CC4827B62E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AleynaDailyEntity", "AleynaDailyEntity\AleynaDailyEntity.csproj", "{BE0CD2F4-1A67-47BE-830E-8544A962D923}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AleynaDailyServices", "AleynaDailyServices\AleynaDailyServices.csproj", "{A504EE16-0B50-4B5F-87E1-AF05731B9280}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AleynaDailyData", "AleynaDailyData\AleynaDailyData.csproj", "{C213703D-4E00-4B4A-BB22-2630118911A6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB3A1194-361D-4F58-9A41-3453D3972CFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB3A1194-361D-4F58-9A41-3453D3972CFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB3A1194-361D-4F58-9A41-3453D3972CFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB3A1194-361D-4F58-9A41-3453D3972CFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB5D7C95-A342-47B3-87C5-96CC4827B62E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB5D7C95-A342-47B3-87C5-96CC4827B62E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB5D7C95-A342-47B3-87C5-96CC4827B62E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB5D7C95-A342-47B3-87C5-96CC4827B62E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE0CD2F4-1A67-47BE-830E-8544A962D923}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE0CD2F4-1A67-47BE-830E-8544A962D923}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE0CD2F4-1A67-47BE-830E-8544A962D923}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE0CD2F4-1A67-47BE-830E-8544A962D923}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A504EE16-0B50-4B5F-87E1-AF05731B9280}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A504EE16-0B50-4B5F-87E1-AF05731B9280}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A504EE16-0B50-4B5F-87E1-AF05731B9280}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A504EE16-0B50-4B5F-87E1-AF05731B9280}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C213703D-4E00-4B4A-BB22-2630118911A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C213703D-4E00-4B4A-BB22-2630118911A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C213703D-4E00-4B4A-BB22-2630118911A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C213703D-4E00-4B4A-BB22-2630118911A6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
