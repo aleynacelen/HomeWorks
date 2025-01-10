@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "AleynaDailyEntity/1.0.0": {
+        "dependencies": {
+          "AleynaDailyShared": "1.0.0"
+        },
+        "runtime": {
+          "AleynaDailyEntity.dll": {}
+        }
+      },
+      "AleynaDailyShared/1.0.0": {
+        "runtime": {
+          "AleynaDailyShared.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AleynaDailyEntity/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AleynaDailyShared/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

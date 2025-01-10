@@ -1,0 +1,12 @@
+C:\Users\yenib\OneDrive\Belgeler\GitHub\HomeWorks\HomeWorks\DailyProject\AleynaDaily\AleynaDailyShared\bin\Debug\net8.0\AleynaDailyShared.deps.json
+C:\Users\yenib\OneDrive\Belgeler\GitHub\HomeWorks\HomeWorks\DailyProject\AleynaDaily\AleynaDailyShared\bin\Debug\net8.0\AleynaDailyShared.dll
+C:\Users\yenib\OneDrive\Belgeler\GitHub\HomeWorks\HomeWorks\DailyProject\AleynaDaily\AleynaDailyShared\bin\Debug\net8.0\AleynaDailyShared.pdb
+C:\Users\yenib\OneDrive\Belgeler\GitHub\HomeWorks\HomeWorks\DailyProject\AleynaDaily\AleynaDailyShared\obj\Debug\net8.0\AleynaDailyShared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yenib\OneDrive\Belgeler\GitHub\HomeWorks\HomeWorks\DailyProject\AleynaDaily\AleynaDailyShared\obj\Debug\net8.0\AleynaDailyShared.AssemblyInfoInputs.cache
+C:\Users\yenib\OneDrive\Belgeler\GitHub\HomeWorks\HomeWorks\DailyProject\AleynaDaily\AleynaDailyShared\obj\Debug\net8.0\AleynaDailyShared.AssemblyInfo.cs
+C:\Users\yenib\OneDrive\Belgeler\GitHub\HomeWorks\HomeWorks\DailyProject\AleynaDaily\AleynaDailyShared\obj\Debug\net8.0\AleynaDailyShared.csproj.CoreCompileInputs.cache
+C:\Users\yenib\OneDrive\Belgeler\GitHub\HomeWorks\HomeWorks\DailyProject\AleynaDaily\AleynaDailyShared\obj\Debug\net8.0\AleynaDailyShared.sourcelink.json
+C:\Users\yenib\OneDrive\Belgeler\GitHub\HomeWorks\HomeWorks\DailyProject\AleynaDaily\AleynaDailyShared\obj\Debug\net8.0\AleynaDailyShared.dll
+C:\Users\yenib\OneDrive\Belgeler\GitHub\HomeWorks\HomeWorks\DailyProject\AleynaDaily\AleynaDailyShared\obj\Debug\net8.0\refint\AleynaDailyShared.dll
+C:\Users\yenib\OneDrive\Belgeler\GitHub\HomeWorks\HomeWorks\DailyProject\AleynaDaily\AleynaDailyShared\obj\Debug\net8.0\AleynaDailyShared.pdb
+C:\Users\yenib\OneDrive\Belgeler\GitHub\HomeWorks\HomeWorks\DailyProject\AleynaDaily\AleynaDailyShared\obj\Debug\net8.0\ref\AleynaDailyShared.dll

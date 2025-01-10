@@ -1,0 +1,16 @@
+C:\Users\yenib\OneDrive\Belgeler\GitHub\HomeWorks\HomeWorks\DailyProject\AleynaDaily\AleynaDailyEntity\bin\Debug\net8.0\AleynaDailyEntity.deps.json
+C:\Users\yenib\OneDrive\Belgeler\GitHub\HomeWorks\HomeWorks\DailyProject\AleynaDaily\AleynaDailyEntity\bin\Debug\net8.0\AleynaDailyEntity.dll
+C:\Users\yenib\OneDrive\Belgeler\GitHub\HomeWorks\HomeWorks\DailyProject\AleynaDaily\AleynaDailyEntity\bin\Debug\net8.0\AleynaDailyEntity.pdb
+C:\Users\yenib\OneDrive\Belgeler\GitHub\HomeWorks\HomeWorks\DailyProject\AleynaDaily\AleynaDailyEntity\bin\Debug\net8.0\AleynaDailyShared.dll
+C:\Users\yenib\OneDrive\Belgeler\GitHub\HomeWorks\HomeWorks\DailyProject\AleynaDaily\AleynaDailyEntity\bin\Debug\net8.0\AleynaDailyShared.pdb
+C:\Users\yenib\OneDrive\Belgeler\GitHub\HomeWorks\HomeWorks\DailyProject\AleynaDaily\AleynaDailyEntity\obj\Debug\net8.0\AleynaDailyEntity.csproj.AssemblyReference.cache
+C:\Users\yenib\OneDrive\Belgeler\GitHub\HomeWorks\HomeWorks\DailyProject\AleynaDaily\AleynaDailyEntity\obj\Debug\net8.0\AleynaDailyEntity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yenib\OneDrive\Belgeler\GitHub\HomeWorks\HomeWorks\DailyProject\AleynaDaily\AleynaDailyEntity\obj\Debug\net8.0\AleynaDailyEntity.AssemblyInfoInputs.cache
+C:\Users\yenib\OneDrive\Belgeler\GitHub\HomeWorks\HomeWorks\DailyProject\AleynaDaily\AleynaDailyEntity\obj\Debug\net8.0\AleynaDailyEntity.AssemblyInfo.cs
+C:\Users\yenib\OneDrive\Belgeler\GitHub\HomeWorks\HomeWorks\DailyProject\AleynaDaily\AleynaDailyEntity\obj\Debug\net8.0\AleynaDailyEntity.csproj.CoreCompileInputs.cache
+C:\Users\yenib\OneDrive\Belgeler\GitHub\HomeWorks\HomeWorks\DailyProject\AleynaDaily\AleynaDailyEntity\obj\Debug\net8.0\AleynaDailyEntity.sourcelink.json
+C:\Users\yenib\OneDrive\Belgeler\GitHub\HomeWorks\HomeWorks\DailyProject\AleynaDaily\AleynaDailyEntity\obj\Debug\net8.0\AleynaDa.35A50CA5.Up2Date
+C:\Users\yenib\OneDrive\Belgeler\GitHub\HomeWorks\HomeWorks\DailyProject\AleynaDaily\AleynaDailyEntity\obj\Debug\net8.0\AleynaDailyEntity.dll
+C:\Users\yenib\OneDrive\Belgeler\GitHub\HomeWorks\HomeWorks\DailyProject\AleynaDaily\AleynaDailyEntity\obj\Debug\net8.0\refint\AleynaDailyEntity.dll
+C:\Users\yenib\OneDrive\Belgeler\GitHub\HomeWorks\HomeWorks\DailyProject\AleynaDaily\AleynaDailyEntity\obj\Debug\net8.0\AleynaDailyEntity.pdb
+C:\Users\yenib\OneDrive\Belgeler\GitHub\HomeWorks\HomeWorks\DailyProject\AleynaDaily\AleynaDailyEntity\obj\Debug\net8.0\ref\AleynaDailyEntity.dll

@@ -7,7 +7,9 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\AleynaDailyAPI\AleynaDailyAPI.csproj" />
+    
+    <ProjectReference Include="..\AleynaDailyData\AleynaDailyData.csproj" />
+    
     <ProjectReference Include="..\AleynaDailyShared\AleynaDailyShared.csproj" />
   </ItemGroup>
 

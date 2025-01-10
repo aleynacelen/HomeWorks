@@ -15,6 +15,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\AleynaDailyServices\AleynaDailyServices.csproj" />
     <ProjectReference Include="..\AleynaDailyShared\AleynaDailyShared.csproj" />
   </ItemGroup>
 
