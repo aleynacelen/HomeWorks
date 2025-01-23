@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AleynaDailyShared")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+83447d8bb2e2593d811c6c4755a7b07c569c2c70")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+986e846c94e4cd853a649a05a0a1e023679ef2ce")]
 [assembly: System.Reflection.AssemblyProductAttribute("AleynaDailyShared")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AleynaDailyShared")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

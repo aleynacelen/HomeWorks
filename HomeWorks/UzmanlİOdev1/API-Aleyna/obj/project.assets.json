@@ -60,11 +60,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\yenib\\OneDrive\\Masaüstü\\API-Aleyna\\HomeWorkAcademy\\MasterHomeWork\\Week4-HomeWork-Apı\\Week4-HomeWork-Apı.csproj",
+      "projectUniqueName": "C:\\Users\\yenib\\OneDrive\\Belgeler\\GitHub\\HomeWorks\\HomeWorks\\UzmanlİOdev1\\API-Aleyna\\Week4-HomeWork-Apı.csproj",
       "projectName": "Week4-HomeWork-Apı",
-      "projectPath": "C:\\Users\\yenib\\OneDrive\\Masaüstü\\API-Aleyna\\HomeWorkAcademy\\MasterHomeWork\\Week4-HomeWork-Apı\\Week4-HomeWork-Apı.csproj",
+      "projectPath": "C:\\Users\\yenib\\OneDrive\\Belgeler\\GitHub\\HomeWorks\\HomeWorks\\UzmanlİOdev1\\API-Aleyna\\Week4-HomeWork-Apı.csproj",
       "packagesPath": "C:\\Users\\yenib\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\yenib\\OneDrive\\Masaüstü\\API-Aleyna\\HomeWorkAcademy\\MasterHomeWork\\Week4-HomeWork-Apı\\obj\\",
+      "outputPath": "C:\\Users\\yenib\\OneDrive\\Belgeler\\GitHub\\HomeWorks\\HomeWorks\\UzmanlİOdev1\\API-Aleyna\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\yenib\\AppData\\Roaming\\NuGet\\NuGet.Config",
