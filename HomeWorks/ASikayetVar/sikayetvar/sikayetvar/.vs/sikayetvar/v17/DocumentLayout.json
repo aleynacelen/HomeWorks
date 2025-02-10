@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\works\\sikayetvar\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{25435738-1909-4D7A-9A48-265CD4147CF6}|sikayetvar\\sikayetvar.csproj|c:\\works\\sikayetvar\\sikayetvar\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25435738-1909-4D7A-9A48-265CD4147CF6}|sikayetvar\\sikayetvar.csproj|solutionrelative:sikayetvar\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25435738-1909-4D7A-9A48-265CD4147CF6}|sikayetvar\\sikayetvar.csproj|c:\\works\\sikayetvar\\sikayetvar\\controllers\\editor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25435738-1909-4D7A-9A48-265CD4147CF6}|sikayetvar\\sikayetvar.csproj|solutionrelative:sikayetvar\\controllers\\editor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\works\\sikayetvar\\sikayetvar\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "sikayetvar\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\works\\sikayetvar\\sikayetvar\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "sikayetvar\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T12:57:40.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Editor.cs",
+              "DocumentMoniker": "C:\\works\\sikayetvar\\sikayetvar\\Controllers\\Editor.cs",
+              "RelativeDocumentMoniker": "sikayetvar\\Controllers\\Editor.cs",
+              "ToolTip": "C:\\works\\sikayetvar\\sikayetvar\\Controllers\\Editor.cs",
+              "RelativeToolTip": "sikayetvar\\Controllers\\Editor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T12:57:38.118Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
