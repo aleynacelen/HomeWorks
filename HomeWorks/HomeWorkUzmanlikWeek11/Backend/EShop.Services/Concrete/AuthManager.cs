@@ -18,7 +18,7 @@ namespace EShop.Services.Concrete;
 
 public class AuthManager : IAuthService
 {
-    private readonly UserManager<ApplicationUser> _userManager;
+    private readonly UserManager<ApplicationUser> _userManager;//Kullanıcı işlemleri için kullanılacak servis
     private readonly SignInManager<ApplicationUser> _signInManager;
     private readonly IEmailService _emailManager;
     private JwtConfig _jwtConfig;
