@@ -16,6 +16,6 @@ namespace EShop.Services.Abstract
         Task<ResponseDto<int>> CountAsync();
         Task<ResponseDto<int>> CountAsync(bool? isActive);
         Task<ResponseDto<bool>> UpdateIsActiveAsync(int id);
-
+Task<ResponseDto<bool>> UpdateIsActiveAsync(int id, bool isActive); 
     }
 }
