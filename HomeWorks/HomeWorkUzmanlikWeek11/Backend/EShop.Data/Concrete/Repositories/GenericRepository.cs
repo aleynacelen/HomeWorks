@@ -115,3 +115,25 @@ public class GenericRepository<TEntity> : IGenericRepository<TEntity> where TEnt
     .Include(x=>x.Category)
     .Include(x=>x.Brand)
 */
+Task<IEnumerable<TEntity>> GetAllAsync(Expression<Func<TEntity, bool>> predicate = null!, Func<IQueryable<TEntity>, IOrderedQueryable<TEntity>> orderBy = null!, 
+    bool showIsDeleted=false, params Func<IQueryable<TEntity>, IQueryable<TEntity>>[] includes)
+{
+    IQueryable<TEntity> query = _dbSet;
+    if(showIsDeleted){
+        query = query.IgnoreQueryFilters();
+    }
+    if (predicate != null)
+    {
+        query = query.Where(predicate);
+    }
+    if (orderBy != null)
+    {
+        query = orderBy(query);
+    }
+    if (includes != null)
+    {
+        query = includes.Aggregate(query, (current, include) => include(current));
+    }
+    return await query.ToListAsync();
+}
+// bu kısım generic yapıların temelini oluşturur
